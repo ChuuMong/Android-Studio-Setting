@@ -286,6 +286,10 @@
           <option name="url" value="https://github.com/farkam135/GoIV" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/importre/kotlin-cycle" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\TestProject" />
