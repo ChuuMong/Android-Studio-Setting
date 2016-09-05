@@ -28,12 +28,6 @@
       <option name="OC_DECLARATION_CPP" value="false" />
       <option name="OC_STATEMENT_CPP" value="false" />
       <option name="OC_EXPRESSION_CPP" value="false" />
-      <option name="KOTLIN" value="false" />
-      <option name="KOTLIN_TOPLEVEL" value="false" />
-      <option name="KOTLIN_STATEMENT" value="false" />
-      <option name="KOTLIN_CLASS" value="false" />
-      <option name="KOTLIN_EXPRESSION" value="false" />
-      <option name="KOTLIN_COMMENT" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
