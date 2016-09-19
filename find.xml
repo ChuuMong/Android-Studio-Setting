@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'CastleMaker'" />
-    <option name="defaultScopeName" value="Project 'CastleMaker'" />
+    <option name="customScope" value="Project 'Moblo'" />
+    <option name="defaultScopeName" value="Project 'Moblo'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'CastleMaker'" />
+    <option name="SEARCH_SCOPE" value="Project 'Moblo'" />
   </component>
 </application>
