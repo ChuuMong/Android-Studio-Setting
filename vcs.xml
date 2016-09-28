@@ -318,6 +318,10 @@
           <option name="url" value="https://github.com/HackPlan/AndroidCharts" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lpy19930103/AndroidLineChart" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\TestProject" />
