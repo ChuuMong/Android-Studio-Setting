@@ -326,6 +326,10 @@
           <option name="url" value="https://github.com/edubarr/header-decor" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TonicArtos/SuperSLiM" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\TestProject" />
