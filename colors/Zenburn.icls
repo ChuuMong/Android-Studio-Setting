@@ -535,29 +535,38 @@
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="a064bb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6897bb" />
+        <option name="FOREGROUND" value="218bbe" />
         <option name="BACKGROUND" value="404040" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="bd3a30" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
+        <option name="FOREGROUND" value="489f4c" />
+        <option name="BACKGROUND" value="404040" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbdb1" />
         <option name="BACKGROUND" value="404040" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbb529" />
+        <option name="FOREGROUND" value="df8607" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
