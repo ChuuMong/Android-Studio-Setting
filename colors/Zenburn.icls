@@ -498,6 +498,11 @@
         <option name="FOREGROUND" value="cc9393" />
       </value>
     </option>
+    <option name="KOTLIN_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="cae682" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffffff" />
