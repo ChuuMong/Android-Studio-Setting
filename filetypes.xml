@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="town" type="PLAIN_TEXT" />
+      <mapping pattern="cnsmrscrt" type="PLAIN_TEXT" />
+      <mapping ext="awd" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>
