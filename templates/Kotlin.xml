@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="todo" value="TODO(&quot;$date$ $todo$&quot;)" description="adds TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
